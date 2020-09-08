@@ -377,7 +377,7 @@ shinyUI(
                     )
                 )
             ),
-            footer = h5(HTML("dMed Copyright 2019 : 
+            footer = h5(HTML("dMed Copyright 2020 : 
                        <strong style='color:#ec4c3c;background-color:#F8F9F9'> E </strong>
                        arly <strong style='color:#ec4c3c;background-color:#F8F9F9'> D </strong> evelepment and 
                        <strong style='color:#ec4c3c;background-color:#F8F9F9'> C </strong> linical 
